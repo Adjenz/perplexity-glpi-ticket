@@ -97,8 +97,8 @@ python glpi_ticket_automation_v1.8.py --config
 🔧 CONFIGURATION GLPI
 ------------------------------
 URL de l'API GLPI: https://glpi.monentreprise.com/apirest.php
-App-Token GLPI: f7g3csp8mgatg5ebc5elnazakw20i9fyev1qopya7
-User-Token GLPI: q56hqkniwot8wntb3z1qarka5atf365taaa2uyjrn
+App-Token GLPI: f7g3csp8mev1qopya7
+User-Token GLPI: q56hqkniwot8uyjrn
 
 🤖 CONFIGURATION PERPLEXITY AI
 ------------------------------
